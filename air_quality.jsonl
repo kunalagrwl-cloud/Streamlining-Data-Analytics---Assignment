@@ -1,0 +1,150 @@
+{"event_time": "2026-08-25T06:00:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 213, "pm2_5": 61.5, "pm10": 114.9, "co": 0.4, "no2": 26.9, "o3": 90.3}
+{"event_time": "2026-08-25T06:04:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 308, "pm2_5": 214.4, "pm10": 26.6, "co": 2.15, "no2": 79.7, "o3": 100.0}
+{"event_time": "2026-08-25T06:08:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 51, "pm2_5": 75.5, "pm10": 54.7, "co": 0.85, "no2": 38.1, "o3": 89.9}
+{"event_time": "2026-08-25T06:12:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 286, "pm2_5": 195.2, "pm10": 168.2, "co": 3.38, "no2": 66.0, "o3": 17.6}
+{"event_time": "2026-08-25T06:16:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 127, "pm2_5": 53.8, "pm10": 118.8, "co": 1.47, "no2": 58.6, "o3": 55.5}
+{"event_time": "2026-08-25T06:20:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 153, "pm2_5": 22.7, "pm10": 42.0, "co": 2.21, "no2": 79.8, "o3": 16.1}
+{"event_time": "2026-08-25T06:24:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 92, "pm2_5": 62.5, "pm10": 217.3, "co": 2.81, "no2": 84.4, "o3": 47.1}
+{"event_time": "2026-08-25T06:28:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 57, "pm2_5": 145.0, "pm10": 249.5, "co": 1.44, "no2": 62.7, "o3": 61.7}
+{"event_time": "2026-08-25T06:32:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 195, "pm2_5": 54.1, "pm10": 36.6, "co": 0.78, "no2": 23.3, "o3": 90.0}
+{"event_time": "2026-08-25T06:36:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 223, "pm2_5": 68.6, "pm10": 178.2, "co": 4.47, "no2": 51.5, "o3": 30.9}
+{"event_time": "2026-08-25T06:40:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 140, "pm2_5": 97.1, "pm10": 77.9, "co": 2.72, "no2": 8.6, "o3": 21.6}
+{"event_time": "2026-08-25T06:44:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 122, "pm2_5": 144.3, "pm10": 177.9, "co": 3.97, "no2": 65.1, "o3": 58.9}
+{"event_time": "2026-08-25T06:48:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 295, "pm2_5": 116.8, "pm10": 270.2, "co": 1.52, "no2": 31.0, "o3": 114.4}
+{"event_time": "2026-08-25T06:52:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 170, "pm2_5": 72.8, "pm10": 106.3, "co": 1.51, "no2": 8.7, "o3": 72.1}
+{"event_time": "2026-08-25T06:56:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 97, "pm2_5": 86.3, "pm10": 95.3, "co": 3.81, "no2": 23.4, "o3": 44.0}
+{"event_time": "2026-08-25T07:00:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 289, "pm2_5": 171.5, "pm10": 69.2, "co": 1.72, "no2": 28.6, "o3": 90.6}
+{"event_time": "2026-08-25T07:04:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 136, "pm2_5": 68.3, "pm10": 288.9, "co": 3.7, "no2": 76.8, "o3": 102.4}
+{"event_time": "2026-08-25T07:08:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 257, "pm2_5": 44.7, "pm10": 275.0, "co": 0.85, "no2": 67.4, "o3": 60.3}
+{"event_time": "2026-08-25T07:12:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 189, "pm2_5": 174.4, "pm10": 111.8, "co": 3.49, "no2": 89.7, "o3": 113.5}
+{"event_time": "2026-08-25T07:16:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 70, "pm2_5": 60.1, "pm10": 275.7, "co": 2.06, "no2": 75.0, "o3": 118.5}
+{"event_time": "2026-08-25T07:20:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 209, "pm2_5": 98.3, "pm10": 112.0, "co": 4.0, "no2": 52.3, "o3": 77.6}
+{"event_time": "2026-08-25T07:24:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 43, "pm2_5": 99.1, "pm10": 30.1, "co": 0.42, "no2": 79.8, "o3": 103.0}
+{"event_time": "2026-08-25T07:28:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 107, "pm2_5": 12.7, "pm10": 91.9, "co": 1.82, "no2": 46.9, "o3": 105.2}
+{"event_time": "2026-08-25T07:32:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 81, "pm2_5": 112.6, "pm10": 120.2, "co": 3.31, "no2": 70.0, "o3": 87.9}
+{"event_time": "2026-08-25T07:36:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 291, "pm2_5": 132.4, "pm10": 164.4, "co": 2.4, "no2": 35.1, "o3": 71.0}
+{"event_time": "2026-08-25T07:40:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 245, "pm2_5": 206.9, "pm10": 207.7, "co": 0.71, "no2": 73.8, "o3": 96.6}
+{"event_time": "2026-08-25T07:44:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 85, "pm2_5": 97.4, "pm10": 181.9, "co": 3.22, "no2": 75.4, "o3": 35.1}
+{"event_time": "2026-08-25T07:48:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 44, "pm2_5": 16.3, "pm10": 94.6, "co": 0.36, "no2": 49.9, "o3": 17.3}
+{"event_time": "2026-08-25T07:52:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 103, "pm2_5": 142.5, "pm10": 154.7, "co": 2.12, "no2": 51.1, "o3": 82.0}
+{"event_time": "2026-08-25T07:56:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 92, "pm2_5": 52.8, "pm10": 222.4, "co": 2.86, "no2": 17.7, "o3": 12.2}
+{"event_time": "2026-08-25T08:00:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 166, "pm2_5": 79.3, "pm10": 16.5, "co": 2.42, "no2": 44.2, "o3": 20.4}
+{"event_time": "2026-08-25T08:04:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 108, "pm2_5": 117.0, "pm10": 133.0, "co": 4.11, "no2": 13.0, "o3": 32.4}
+{"event_time": "2026-08-25T08:08:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 264, "pm2_5": 19.1, "pm10": 216.8, "co": 2.35, "no2": 26.7, "o3": 93.8}
+{"event_time": "2026-08-25T08:12:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 159, "pm2_5": 35.7, "pm10": 222.9, "co": 1.3, "no2": 74.8, "o3": 19.3}
+{"event_time": "2026-08-25T08:16:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 174, "pm2_5": 128.7, "pm10": 26.3, "co": 4.41, "no2": 23.4, "o3": 33.0}
+{"event_time": "2026-08-25T08:20:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 106, "pm2_5": 126.2, "pm10": 105.8, "co": 0.66, "no2": 56.0, "o3": 110.2}
+{"event_time": "2026-08-25T08:24:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 204, "pm2_5": 150.3, "pm10": 75.2, "co": 2.92, "no2": 74.4, "o3": 113.8}
+{"event_time": "2026-08-25T08:28:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 110, "pm2_5": 106.1, "pm10": 44.8, "co": 4.47, "no2": 86.5, "o3": 100.2}
+{"event_time": "2026-08-25T08:32:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 99, "pm2_5": 155.7, "pm10": 86.9, "co": 2.14, "no2": 79.0, "o3": 55.8}
+{"event_time": "2026-08-25T08:36:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 117, "pm2_5": 200.0, "pm10": 104.6, "co": 2.54, "no2": 36.3, "o3": 75.3}
+{"event_time": "2026-08-25T08:40:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 154, "pm2_5": 76.5, "pm10": 86.7, "co": 0.77, "no2": 44.4, "o3": 97.0}
+{"event_time": "2026-08-25T08:44:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 270, "pm2_5": 142.5, "pm10": 298.0, "co": 4.48, "no2": 70.6, "o3": 64.8}
+{"event_time": "2026-08-25T08:48:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 127, "pm2_5": 82.2, "pm10": 106.3, "co": 3.0, "no2": 20.9, "o3": 54.0}
+{"event_time": "2026-08-25T08:52:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 201, "pm2_5": 188.7, "pm10": 193.4, "co": 0.87, "no2": 16.1, "o3": 53.1}
+{"event_time": "2026-08-25T08:56:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 286, "pm2_5": 128.6, "pm10": 299.0, "co": 1.82, "no2": 15.2, "o3": 21.4}
+{"event_time": "2026-08-25T09:00:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 227, "pm2_5": 95.5, "pm10": 216.9, "co": 2.31, "no2": 23.9, "o3": 49.3}
+{"event_time": "2026-08-25T09:04:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 307, "pm2_5": 114.8, "pm10": 225.3, "co": 4.15, "no2": 34.4, "o3": 49.7}
+{"event_time": "2026-08-25T09:08:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 275, "pm2_5": 120.8, "pm10": 29.0, "co": 1.7, "no2": 32.7, "o3": 78.4}
+{"event_time": "2026-08-25T09:12:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 245, "pm2_5": 78.7, "pm10": 265.9, "co": 0.8, "no2": 69.9, "o3": 116.9}
+{"event_time": "2026-08-25T09:16:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 191, "pm2_5": 92.4, "pm10": 113.8, "co": 0.82, "no2": 75.2, "o3": 17.4}
+{"event_time": "2026-08-25T09:20:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 171, "pm2_5": 88.2, "pm10": 16.0, "co": 1.55, "no2": 40.2, "o3": 75.9}
+{"event_time": "2026-08-25T09:24:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 312, "pm2_5": 211.6, "pm10": 137.9, "co": 0.54, "no2": 31.5, "o3": 20.4}
+{"event_time": "2026-08-25T09:28:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 102, "pm2_5": 106.5, "pm10": 89.8, "co": 0.96, "no2": 49.6, "o3": 91.6}
+{"event_time": "2026-08-25T09:32:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 203, "pm2_5": 80.1, "pm10": 148.7, "co": 2.27, "no2": 29.8, "o3": 75.3}
+{"event_time": "2026-08-25T09:36:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 147, "pm2_5": 30.3, "pm10": 64.8, "co": 1.6, "no2": 65.6, "o3": 18.9}
+{"event_time": "2026-08-25T09:40:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 39, "pm2_5": 194.6, "pm10": 185.1, "co": 3.36, "no2": 35.7, "o3": 49.1}
+{"event_time": "2026-08-25T09:44:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 289, "pm2_5": 172.2, "pm10": 101.4, "co": 2.36, "no2": 63.9, "o3": 63.7}
+{"event_time": "2026-08-25T09:48:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 145, "pm2_5": 51.0, "pm10": 108.5, "co": 3.34, "no2": 68.0, "o3": 81.4}
+{"event_time": "2026-08-25T09:52:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 121, "pm2_5": 165.3, "pm10": 201.4, "co": 0.52, "no2": 86.4, "o3": 18.4}
+{"event_time": "2026-08-25T09:56:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 89, "pm2_5": 153.8, "pm10": 69.4, "co": 0.94, "no2": 21.4, "o3": 104.0}
+{"event_time": "2026-08-25T10:00:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 283, "pm2_5": 70.1, "pm10": 152.9, "co": 3.28, "no2": 78.7, "o3": 68.8}
+{"event_time": "2026-08-25T10:04:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 183, "pm2_5": 46.4, "pm10": 65.9, "co": 3.9, "no2": 51.1, "o3": 103.7}
+{"event_time": "2026-08-25T10:08:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 41, "pm2_5": 174.4, "pm10": 21.2, "co": 2.28, "no2": 35.7, "o3": 11.1}
+{"event_time": "2026-08-25T10:12:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 201, "pm2_5": 102.7, "pm10": 139.9, "co": 1.22, "no2": 79.4, "o3": 110.9}
+{"event_time": "2026-08-25T10:16:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 99, "pm2_5": 33.1, "pm10": 236.5, "co": 2.93, "no2": 20.6, "o3": 56.4}
+{"event_time": "2026-08-25T10:20:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 96, "pm2_5": 209.1, "pm10": 129.5, "co": 2.04, "no2": 33.9, "o3": 22.4}
+{"event_time": "2026-08-25T10:24:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 86, "pm2_5": 163.3, "pm10": 16.5, "co": 1.91, "no2": 84.8, "o3": 60.1}
+{"event_time": "2026-08-25T10:28:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 281, "pm2_5": 115.3, "pm10": 173.0, "co": 3.58, "no2": 65.7, "o3": 55.0}
+{"event_time": "2026-08-25T10:32:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 167, "pm2_5": 136.9, "pm10": 84.1, "co": 3.59, "no2": 30.8, "o3": 114.1}
+{"event_time": "2026-08-25T10:36:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 256, "pm2_5": 86.3, "pm10": 217.8, "co": 3.59, "no2": 22.9, "o3": 82.1}
+{"event_time": "2026-08-25T10:40:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 265, "pm2_5": 14.8, "pm10": 164.4, "co": 3.82, "no2": 59.0, "o3": 94.7}
+{"event_time": "2026-08-25T10:44:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 165, "pm2_5": 175.8, "pm10": 250.3, "co": 0.57, "no2": 5.3, "o3": 100.8}
+{"event_time": "2026-08-25T10:48:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 72, "pm2_5": 77.2, "pm10": 219.1, "co": 1.95, "no2": 20.3, "o3": 23.6}
+{"event_time": "2026-08-25T10:52:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 62, "pm2_5": 31.5, "pm10": 198.6, "co": 2.89, "no2": 25.9, "o3": 24.5}
+{"event_time": "2026-08-25T10:56:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 155, "pm2_5": 123.2, "pm10": 176.3, "co": 2.59, "no2": 65.6, "o3": 116.0}
+{"event_time": "2026-08-25T11:00:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 284, "pm2_5": 121.5, "pm10": 92.2, "co": 4.1, "no2": 23.7, "o3": 77.7}
+{"event_time": "2026-08-25T11:04:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 290, "pm2_5": 118.4, "pm10": 267.0, "co": 4.4, "no2": 74.5, "o3": 42.4}
+{"event_time": "2026-08-25T11:08:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 174, "pm2_5": 50.2, "pm10": 224.0, "co": 4.38, "no2": 73.8, "o3": 48.7}
+{"event_time": "2026-08-25T11:12:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 110, "pm2_5": 81.8, "pm10": 228.2, "co": 0.3, "no2": 63.9, "o3": 57.2}
+{"event_time": "2026-08-25T11:16:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 94, "pm2_5": 129.0, "pm10": 73.4, "co": 1.15, "no2": 20.5, "o3": 103.9}
+{"event_time": "2026-08-25T11:20:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 69, "pm2_5": 197.5, "pm10": 29.0, "co": 1.62, "no2": 54.1, "o3": 48.8}
+{"event_time": "2026-08-25T11:24:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 89, "pm2_5": 107.4, "pm10": 209.4, "co": 4.17, "no2": 19.1, "o3": 66.7}
+{"event_time": "2026-08-25T11:28:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 316, "pm2_5": 141.9, "pm10": 267.6, "co": 4.17, "no2": 88.1, "o3": 76.7}
+{"event_time": "2026-08-25T11:32:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 220, "pm2_5": 36.1, "pm10": 136.7, "co": 0.71, "no2": 24.0, "o3": 90.4}
+{"event_time": "2026-08-25T11:36:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 40, "pm2_5": 132.2, "pm10": 89.5, "co": 0.73, "no2": 48.6, "o3": 16.7}
+{"event_time": "2026-08-25T11:40:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 109, "pm2_5": 133.4, "pm10": 203.9, "co": 2.12, "no2": 70.7, "o3": 52.8}
+{"event_time": "2026-08-25T11:44:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 213, "pm2_5": 199.3, "pm10": 106.0, "co": 3.56, "no2": 58.2, "o3": 115.2}
+{"event_time": "2026-08-25T11:48:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 285, "pm2_5": 40.4, "pm10": 51.3, "co": 0.28, "no2": 14.0, "o3": 12.1}
+{"event_time": "2026-08-25T11:52:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 51, "pm2_5": 141.2, "pm10": 70.5, "co": 1.6, "no2": 26.4, "o3": 33.3}
+{"event_time": "2026-08-25T11:56:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 123, "pm2_5": 86.3, "pm10": 232.4, "co": 4.44, "no2": 36.2, "o3": 49.5}
+{"event_time": "2026-08-25T12:00:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 220, "pm2_5": 71.6, "pm10": 144.7, "co": 2.39, "no2": 82.8, "o3": 116.9}
+{"event_time": "2026-08-25T12:04:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 58, "pm2_5": 19.7, "pm10": 139.2, "co": 1.22, "no2": 24.0, "o3": 52.4}
+{"event_time": "2026-08-25T12:08:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 139, "pm2_5": 209.8, "pm10": 257.3, "co": 3.53, "no2": 64.8, "o3": 93.3}
+{"event_time": "2026-08-25T12:12:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 233, "pm2_5": 216.8, "pm10": 299.3, "co": 1.03, "no2": 45.7, "o3": 86.4}
+{"event_time": "2026-08-25T12:16:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 277, "pm2_5": 108.4, "pm10": 236.4, "co": 2.62, "no2": 47.1, "o3": 34.7}
+{"event_time": "2026-08-25T12:20:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 310, "pm2_5": 57.8, "pm10": 294.0, "co": 1.99, "no2": 57.7, "o3": 105.6}
+{"event_time": "2026-08-25T12:24:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 314, "pm2_5": 70.8, "pm10": 46.4, "co": 4.47, "no2": 53.2, "o3": 13.8}
+{"event_time": "2026-08-25T12:28:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 179, "pm2_5": 94.8, "pm10": 141.3, "co": 3.32, "no2": 47.7, "o3": 12.1}
+{"event_time": "2026-08-25T12:32:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 56, "pm2_5": 48.4, "pm10": 195.4, "co": 3.37, "no2": 18.5, "o3": 35.1}
+{"event_time": "2026-08-25T12:36:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 158, "pm2_5": 99.8, "pm10": 217.4, "co": 3.43, "no2": 67.2, "o3": 50.2}
+{"event_time": "2026-08-25T12:40:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 212, "pm2_5": 54.4, "pm10": 263.2, "co": 4.5, "no2": 30.8, "o3": 100.5}
+{"event_time": "2026-08-25T12:44:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 280, "pm2_5": 96.8, "pm10": 205.3, "co": 0.61, "no2": 88.7, "o3": 66.4}
+{"event_time": "2026-08-25T12:48:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 165, "pm2_5": 77.9, "pm10": 133.3, "co": 4.1, "no2": 45.9, "o3": 63.1}
+{"event_time": "2026-08-25T12:52:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 310, "pm2_5": 122.2, "pm10": 134.3, "co": 3.27, "no2": 55.6, "o3": 47.0}
+{"event_time": "2026-08-25T12:56:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 285, "pm2_5": 157.9, "pm10": 68.6, "co": 1.85, "no2": 67.4, "o3": 46.1}
+{"event_time": "2026-08-25T13:00:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 160, "pm2_5": 197.8, "pm10": 165.1, "co": 4.4, "no2": 30.3, "o3": 117.8}
+{"event_time": "2026-08-25T13:04:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 253, "pm2_5": 160.3, "pm10": 97.6, "co": 1.0, "no2": 22.2, "o3": 83.6}
+{"event_time": "2026-08-25T13:08:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 216, "pm2_5": 206.6, "pm10": 219.9, "co": 4.16, "no2": 60.5, "o3": 29.6}
+{"event_time": "2026-08-25T13:12:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 294, "pm2_5": 183.3, "pm10": 55.9, "co": 2.4, "no2": 8.8, "o3": 64.7}
+{"event_time": "2026-08-25T13:16:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 240, "pm2_5": 29.6, "pm10": 237.4, "co": 2.23, "no2": 75.6, "o3": 31.4}
+{"event_time": "2026-08-25T13:20:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 312, "pm2_5": 124.3, "pm10": 105.3, "co": 2.29, "no2": 78.5, "o3": 32.9}
+{"event_time": "2026-08-25T13:24:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 320, "pm2_5": 33.3, "pm10": 64.3, "co": 2.93, "no2": 30.1, "o3": 38.3}
+{"event_time": "2026-08-25T13:28:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 251, "pm2_5": 85.3, "pm10": 268.1, "co": 3.28, "no2": 89.8, "o3": 110.7}
+{"event_time": "2026-08-25T13:32:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 253, "pm2_5": 89.1, "pm10": 258.1, "co": 0.64, "no2": 6.4, "o3": 24.1}
+{"event_time": "2026-08-25T13:36:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 271, "pm2_5": 20.6, "pm10": 174.2, "co": 2.96, "no2": 71.6, "o3": 19.4}
+{"event_time": "2026-08-25T13:40:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 234, "pm2_5": 54.4, "pm10": 242.8, "co": 1.23, "no2": 82.8, "o3": 97.8}
+{"event_time": "2026-08-25T13:44:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 50, "pm2_5": 203.0, "pm10": 62.6, "co": 3.78, "no2": 72.0, "o3": 62.6}
+{"event_time": "2026-08-25T13:48:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 190, "pm2_5": 154.3, "pm10": 51.4, "co": 0.95, "no2": 82.2, "o3": 98.3}
+{"event_time": "2026-08-25T13:52:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 294, "pm2_5": 47.0, "pm10": 138.2, "co": 3.89, "no2": 42.3, "o3": 25.0}
+{"event_time": "2026-08-25T13:56:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 96, "pm2_5": 33.1, "pm10": 90.7, "co": 0.67, "no2": 7.8, "o3": 100.5}
+{"event_time": "2026-08-25T14:00:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 231, "pm2_5": 201.4, "pm10": 209.4, "co": 0.28, "no2": 12.8, "o3": 107.4}
+{"event_time": "2026-08-25T14:04:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 35, "pm2_5": 56.4, "pm10": 232.5, "co": 3.71, "no2": 31.2, "o3": 90.0}
+{"event_time": "2026-08-25T14:08:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 161, "pm2_5": 213.2, "pm10": 126.5, "co": 3.19, "no2": 55.2, "o3": 73.7}
+{"event_time": "2026-08-25T14:12:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 207, "pm2_5": 114.0, "pm10": 212.9, "co": 3.47, "no2": 61.6, "o3": 20.3}
+{"event_time": "2026-08-25T14:16:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 156, "pm2_5": 193.7, "pm10": 41.2, "co": 1.23, "no2": 16.6, "o3": 45.8}
+{"event_time": "2026-08-25T14:20:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 234, "pm2_5": 204.5, "pm10": 26.0, "co": 2.58, "no2": 45.8, "o3": 74.4}
+{"event_time": "2026-08-25T14:24:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 254, "pm2_5": 218.4, "pm10": 177.7, "co": 3.86, "no2": 62.0, "o3": 112.8}
+{"event_time": "2026-08-25T14:28:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 222, "pm2_5": 86.0, "pm10": 117.0, "co": 4.43, "no2": 19.5, "o3": 65.8}
+{"event_time": "2026-08-25T14:32:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 133, "pm2_5": 111.4, "pm10": 70.0, "co": 1.02, "no2": 36.4, "o3": 72.0}
+{"event_time": "2026-08-25T14:36:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 111, "pm2_5": 196.4, "pm10": 109.2, "co": 0.31, "no2": 8.1, "o3": 112.8}
+{"event_time": "2026-08-25T14:40:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 308, "pm2_5": 173.0, "pm10": 30.4, "co": 0.95, "no2": 17.8, "o3": 87.0}
+{"event_time": "2026-08-25T14:44:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 255, "pm2_5": 177.2, "pm10": 127.3, "co": 3.85, "no2": 77.3, "o3": 77.3}
+{"event_time": "2026-08-25T14:48:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 109, "pm2_5": 194.3, "pm10": 208.1, "co": 4.19, "no2": 12.7, "o3": 21.2}
+{"event_time": "2026-08-25T14:52:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 182, "pm2_5": 130.7, "pm10": 62.3, "co": 3.94, "no2": 77.5, "o3": 51.3}
+{"event_time": "2026-08-25T14:56:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 198, "pm2_5": 90.6, "pm10": 257.3, "co": 1.76, "no2": 78.3, "o3": 98.4}
+{"event_time": "2026-08-25T15:00:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 161, "pm2_5": 178.3, "pm10": 221.5, "co": 2.37, "no2": 8.9, "o3": 74.5}
+{"event_time": "2026-08-25T15:04:00", "location_id": "ZONE_05", "location_name": "Karol Bagh", "aqi": 297, "pm2_5": 12.6, "pm10": 138.0, "co": 3.45, "no2": 83.4, "o3": 86.5}
+{"event_time": "2026-08-25T15:08:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 263, "pm2_5": 219.9, "pm10": 275.7, "co": 2.89, "no2": 21.2, "o3": 102.1}
+{"event_time": "2026-08-25T15:12:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 40, "pm2_5": 67.4, "pm10": 146.6, "co": 2.05, "no2": 11.8, "o3": 98.5}
+{"event_time": "2026-08-25T15:16:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 179, "pm2_5": 100.1, "pm10": 228.0, "co": 2.58, "no2": 11.5, "o3": 71.7}
+{"event_time": "2026-08-25T15:20:00", "location_id": "ZONE_04", "location_name": "Saket", "aqi": 241, "pm2_5": 38.9, "pm10": 162.6, "co": 3.98, "no2": 10.5, "o3": 11.5}
+{"event_time": "2026-08-25T15:24:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 170, "pm2_5": 111.7, "pm10": 23.1, "co": 1.74, "no2": 21.8, "o3": 95.1}
+{"event_time": "2026-08-25T15:28:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 98, "pm2_5": 162.6, "pm10": 40.7, "co": 1.65, "no2": 13.9, "o3": 46.3}
+{"event_time": "2026-08-25T15:32:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 212, "pm2_5": 197.3, "pm10": 83.3, "co": 2.55, "no2": 41.5, "o3": 58.6}
+{"event_time": "2026-08-25T15:36:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 167, "pm2_5": 170.6, "pm10": 266.5, "co": 3.93, "no2": 6.5, "o3": 70.6}
+{"event_time": "2026-08-25T15:40:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 63, "pm2_5": 102.7, "pm10": 49.2, "co": 2.11, "no2": 83.0, "o3": 97.4}
+{"event_time": "2026-08-25T15:44:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 264, "pm2_5": 79.6, "pm10": 179.7, "co": 3.61, "no2": 79.2, "o3": 80.2}
+{"event_time": "2026-08-25T15:48:00", "location_id": "ZONE_02", "location_name": "Dwarka Sector 21", "aqi": 168, "pm2_5": 43.3, "pm10": 104.8, "co": 4.43, "no2": 67.3, "o3": 34.6}
+{"event_time": "2026-08-25T15:52:00", "location_id": "ZONE_03", "location_name": "Rohini", "aqi": 106, "pm2_5": 141.0, "pm10": 275.9, "co": 1.02, "no2": 50.1, "o3": 53.8}
+{"event_time": "2026-08-25T15:56:00", "location_id": "ZONE_01", "location_name": "Connaught Place", "aqi": 120, "pm2_5": 116.6, "pm10": 284.7, "co": 2.6, "no2": 20.4, "o3": 47.5}
